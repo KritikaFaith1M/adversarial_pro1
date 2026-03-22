@@ -39,20 +39,33 @@ Example: Instead of C:/Users/kriti/.../audit_logs, use ./audit_logs.
 
 <img width="496" height="865" alt="Screenshot 2026-03-22 145805" src="https://github.com/user-attachments/assets/9c4f9c39-3174-494f-9bbc-8a85a24fd9ea" />
 
-<img width="496" height="865" alt="Screenshot 2026-03-22 145805" src="https://github.com/user-attachments/assets/88595889-1133-4fa1-8639-50e66815e266" />
+--------------------------------------------------------------------------------------------------------------------------------------
+<img width="1086" height="809" alt="Screenshot 2026-03-22 150942" src="https://github.com/user-attachments/assets/3fcf60c7-2765-4e25-91f8-df191e0b5edf" />
 
-<img width="496" height="865" alt="Screenshot 2026-03-22 145805" src="https://github.com/user-attachments/assets/6b0cf70a-9eef-4891-ae85-0b2e78f5f47e" />
 
-<img width="1434" height="100" alt="Screenshot 2026-03-22 152427" src="https://github.com/user-attachments/assets/ac685a60-2c7c-4c1c-8aa2-6cf81151142f" />
+-------------------------------------------------------------------------------------------------------------------------------------
+<img width="1357" height="116" alt="Screenshot 2026-03-22 151738" src="https://github.com/user-attachments/assets/43aa9b26-4755-4b2a-8468-1a850f17bc66" />
 
-<img width="1434" height="100" alt="Screenshot 2026-03-22 152427" src="https://github.com/user-attachments/assets/691ea0b1-0b43-4821-aa74-f7aa3b261a97" />
+--------------------------------------------------------------------------------------------------------------------------------------
+<img width="1434" height="100" alt="Screenshot 2026-03-22 152427" src="https://github.com/user-attachments/assets/39b86d20-a755-40eb-a09d-d7154496a37f" />
 
-<img width="1425" height="117" alt="Screenshot 2026-03-22 152540" src="https://github.com/user-attachments/assets/f8d811dc-2bcc-463b-8068-2186c00975be" />
+-------------------------------------------------------------------------------------------------------------------------------------
+<img width="1051" height="890" alt="Screenshot 2026-03-22 152530" src="https://github.com/user-attachments/assets/d263d4e5-0e7f-40ca-aec6-666129283936" />
 
-<img width="658" height="706" alt="Screenshot 2026-03-22 153937" src="https://github.com/user-attachments/assets/26e50460-36a0-41f8-94d6-9f8299969741" />
+-------------------------------------------------------------------------------------------------------------------------------------
+<img width="1425" height="117" alt="Screenshot 2026-03-22 152540" src="https://github.com/user-attachments/assets/67f7ff4b-800f-4a6c-94ca-8a55eb008436" />
 
-<img width="658" height="706" alt="Screenshot 2026-03-22 153937" src="https://github.com/user-attachments/assets/1169e6f4-4b48-4917-a75c-c952209eb365" />
+------------------------------------------------------------------------------------------------------------------------------------
+<img width="658" height="706" alt="Screenshot 2026-03-22 153937" src="https://github.com/user-attachments/assets/35227c48-83d6-4153-ad7b-bcb450382ea3" />
 
-<img width="658" height="706" alt="Screenshot 2026-03-22 153937" src="https://github.com/user-attachments/assets/cb0b27f2-2db7-4d48-b37e-11e4aaf79e04" />
+-------------------------------------------------------------------------------------------------------------------------------------
+<img width="430" height="570" alt="Screenshot 2026-03-22 162242" src="https://github.com/user-attachments/assets/5f4c2adc-23f8-4359-a90b-b051bb9e90ac" />
 
-<img width="658" height="706" alt="Screenshot 2026-03-22 153937" src="https://github.com/user-attachments/assets/a90db632-b148-4e34-9616-99037b060c14" />
+--------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1894" height="814" alt="Screenshot 2026-03-22 163244" src="https://github.com/user-attachments/assets/ae829134-c5c9-440f-aed5-a16c21f533ba" />
+
+
+
+
+
